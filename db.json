@@ -1,0 +1,14 @@
+{
+	"heroes": [
+		{
+			"id": 1,
+			"name": "Jesus",
+			"power": 9999
+		},
+		{
+			"key": 2,
+			"name": "Job",
+			"power": 10
+		}
+	]
+}
